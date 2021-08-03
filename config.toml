@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://lucyw.netlify.app"
+baseURL = "https://lucywarren0.com"
 languageCode = "en-us"
 theme = "thomson-hugo"
 title = "Thomson-Minimal Hugo Portfolio Temaplate"
@@ -50,11 +50,6 @@ url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 5
-
-[[menu.main]]
 name = "Portfolio"
 url = "portfolio"
 weight = 3
@@ -63,6 +58,11 @@ weight = 3
 name = "Contact"
 url = "contact"
 weight = 4
+
+[[menu.main]]
+name = "Blog"
+url = "blog"
+weight = 5
 
 [[menu.main]]
 name = "Dropdown"
