@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://lucywarren0.com"
+baseURL = "https://www.lucywarren0.com"
 languageCode = "en-us"
 theme = "thomson-hugo"
 title = "Thomson-Minimal Hugo Portfolio Temaplate"
