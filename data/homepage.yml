@@ -45,7 +45,4 @@ service:
       icon : "ti-video-camera" #themify icon pack : https://themify.me/themify-icons
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
 
-    # service item loop
-    - name : "App Design"
-      icon : "ti-android" #themify icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+   
