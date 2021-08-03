@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "lucyw.netlify.app"
+baseURL = "https://lucyw.netlify.app"
 languageCode = "en-us"
 theme = "thomson-hugo"
 title = "Thomson-Minimal Hugo Portfolio Temaplate"
