@@ -1,4 +1,10 @@
 ---
 label: privacy-policy
 hide_body: true
-fields: []
+fields:
+- name: privacy-policy
+  type: text
+  config:
+    required: false
+  label: privacy-policy
+  description: This is meta description.
