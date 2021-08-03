@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://tender-hopper-93c21f.netlify.app"
+baseURL = "lucyw.netlify.app"
 languageCode = "en-us"
 theme = "thomson-hugo"
 title = "Thomson-Minimal Hugo Portfolio Temaplate"
