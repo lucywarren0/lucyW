@@ -9,4 +9,4 @@ fields:
   label: privacy-policy
   description: This is meta description.
 pages:
-- content/privacy-policy.md.md
+- content/privacy-policy.md
