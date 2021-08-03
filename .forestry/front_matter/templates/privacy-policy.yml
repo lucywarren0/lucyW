@@ -8,5 +8,3 @@ fields:
     required: false
   label: privacy-policy
   description: This is meta description.
-pages:
-- content/privacy-policy.md
