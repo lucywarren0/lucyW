@@ -1,5 +1,8 @@
 +++
 privacy-policy = ""
+[menu.main]
+name = "Privacy Policy"
+weight = 6
 
 +++
 <h1>Privacy Policy</h1>
