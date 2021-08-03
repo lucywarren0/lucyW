@@ -16,8 +16,8 @@ portfolio:
 ###################### Service ########################
 service:
   enable : true
-  title : "Have a concept of what you want but need help fleshing it out? Need assistance developing a portfolio, designing graphics and logos, building a website?"
-  content : "I can help!"
+  title : "Need assistance designing graphics and logos, building a website?"
+  content : "I can help flesh out concepts and perhaps lead you to your pièce de résistance!"
   service_item:
   # service item loop
     - name : "Art & Design"
