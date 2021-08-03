@@ -1,5 +1,5 @@
 +++
-privacy-policy = ""
+privacy-policy = "/uploads/privacy-policy.md"
 
 +++
 <h1>Privacy Policy</h1>
