@@ -52,17 +52,17 @@ weight = 2
 [[menu.main]]
 name = "Blog"
 url = "blog"
-weight = 3
+weight = 5
 
 [[menu.main]]
 name = "Portfolio"
 url = "portfolio"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 5
+weight = 4
 
 [[menu.main]]
 name = "Dropdown"
@@ -88,9 +88,9 @@ weight = 6
 home = "Home"
 logo = "images/logo.png"
 # contact info
-mobile = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+mobile = "(919)665-9946"
+email = "lucywarren0@email.com"
+address = "Raleigh, North Carolina, USA"
 # meta description
 author = "themefisher"
 description = "This is meta description"
