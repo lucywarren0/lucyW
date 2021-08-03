@@ -16,33 +16,37 @@ portfolio:
 ###################### Service ########################
 service:
   enable : true
-  title : "Core Services."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam ipsa quia hic
-          odit a sit laboriosam voluptatem in, blanditiis."
+  title : "Stuff"
+  content : "CONTENT = "
   service_item:
+  # service item loop
+    - name : "Art & Design"
+      icon : "ti-layers" #themify icon pack : https://themify.me/themify-icons
+      content : ""
+      
     # service item loop
     - name : "Web Development"
       icon : "ti-layout" #themify icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
-
-    # service item loop
-    - name : "Digital Marketing"
-      icon : "ti-announcement" #themify icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
-
-    # service item loop
-    - name : "Graphics Design"
-      icon : "ti-layers" #themify icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
-
-    # service item loop
-    - name : "Branding Design"
+      content : ""
+      
+# service item loop
+    - name : "Graphics & Branding"
       icon : "ti-anchor" #themify icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+      content : ""
 
     # service item loop
-    - name : "Video Marketing"
-      icon : "ti-video-camera" #themify icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+    #- name : "Digital Marketing"
+     # icon : "ti-announcement" #themify icon pack : https://themify.me/themify-icons
+    #  content : ""
 
-   
+    
+    # service item loop
+  #  - name : "Aesthetic Tings"
+   #   icon : "ti-video-camera" #themify icon pack : https://themify.me/themify-icons
+   #   content : ""
+
+    # service item loop
+   # - name : "App Design"
+    #  icon : "ti-android" #themify icon pack : https://themify.me/themify-icons
+    #  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, earum."
+
